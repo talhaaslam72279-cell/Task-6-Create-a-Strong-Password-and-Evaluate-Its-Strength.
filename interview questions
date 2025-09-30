@@ -1,0 +1,92 @@
+1. What makes a password strong?
+
+A strong password is:
+
+Long: At least 12–16+ characters.
+
+Random: No dictionary words, names, or predictable patterns.
+
+Mixed: Uses uppercase, lowercase, numbers, and symbols.
+
+Unique: Not reused across multiple accounts.
+
+The combination of length, entropy (randomness), and uniqueness makes a password much harder to crack.
+
+2. What are common password attacks?
+
+Brute-Force Attack: Tries all possible character combinations until the correct one is found.
+
+Dictionary Attack: Uses lists of common passwords and words with substitutions (e.g., "Pa$$word").
+
+Credential Stuffing: Uses previously leaked username-password pairs to try accessing other accounts.
+
+Phishing: Tricks users into giving away their credentials through fake websites/emails.
+
+Keylogging: Malicious software records every keystroke, including passwords.
+
+3. Why is password length important?
+
+Password length is the biggest defense against brute-force attacks.
+
+Short passwords (8–10 characters) can be cracked in seconds or minutes.
+
+Long passwords (16–20+ characters) can take centuries with current computing power.
+
+Each additional character exponentially increases the possible combinations.
+
+4. What is a dictionary attack?
+
+A dictionary attack uses a precompiled list of common words, names, and predictable substitutions to guess passwords quickly.
+For example:
+
+“password”, “Password1”, “Pa$$word”, “qwerty”, “123456”
+Defense: Use randomness and avoid real words in passwords.
+
+5. What is multi-factor authentication (MFA)?
+
+MFA requires two or more verification methods before granting access.
+Examples of factors:
+
+Something you know: Password or PIN.
+
+Something you have: Smartphone, security token.
+
+Something you are: Fingerprint, face, voice.
+
+This adds an extra security layer, so even if a password is stolen, the account remains protected.
+
+6. How do password managers help?
+
+Password managers:
+
+Generate strong, random passwords automatically.
+
+Store all passwords securely in encrypted vaults.
+
+Eliminate password reuse, since each account can have a unique password.
+
+Sync across devices, making secure logins more convenient.
+
+7. What are passphrases?
+
+A passphrase is a long sequence of random or nonsensical words.
+
+Example: BlueHorse$Plays99DrumsQuickly
+
+Easier to remember than random characters.
+
+Still very strong because of length and unpredictability.
+
+8. What are common mistakes in password creation?
+
+Using short passwords (less than 12 characters).
+
+Relying on dictionary words or names.
+
+Using predictable patterns like “123456”, “abcd1234”.
+
+Reusing the same password across multiple accounts.
+
+Using obvious substitutions like “Pa$$word” or “Admin123”.
+
+Not enabling multi-factor authentication.
